@@ -1,4 +1,3 @@
-![1](https://github.com/SHYAM-001/Auction-Page/assets/103324177/fc30d6e0-6aaa-4a39-967e-ca42d424e195)e
 # Hi, I'm Shyam K S! 👋
 
 
