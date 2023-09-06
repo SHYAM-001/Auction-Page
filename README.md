@@ -1,4 +1,4 @@
-
+![1](https://github.com/SHYAM-001/Auction-Page/assets/103324177/fc30d6e0-6aaa-4a39-967e-ca42d424e195)e
 # Hi, I'm Shyam K S! 👋
 
 
@@ -11,7 +11,7 @@ Explore my Auction Page, where the thrill of bidding meets an elegantly designed
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![1](https://github.com/SHYAM-001/Auction-Page/assets/103324177/d5e688d4-5447-48ea-89fb-517500497b86)
 
 
 ## Installation
